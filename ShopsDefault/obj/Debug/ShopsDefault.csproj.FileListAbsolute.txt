@@ -1,0 +1,63 @@
+D:\LapTrinh\Project\ShopsDefault\ShopsDefault\ShopsDefault\obj\Debug\ShopsDefault.csprojAssemblyReference.cache
+D:\LapTrinh\Project\ShopsDefault\ShopsDefault\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+F:\ShopsDefault-20201205T115051Z-001\ShopsDefault\ShopsDefault\obj\Debug\ShopsDefault.csprojAssemblyReference.cache
+F:\ShopsDefault-20201205T115051Z-001\ShopsDefault\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+F:\DoAnTotNghiep_ThueXeMay-22-01-2022\DoAnTotNghiep_ThueXeMay\ShopsDefault\obj\Debug\ShopsDefault.csprojAssemblyReference.cache
+F:\DoAnTotNghiep_ThueXeMay-22-01-2022\DoAnTotNghiep_ThueXeMay\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\ShopsDefault.dll.config
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\ShopsDefault.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\ShopsDefault.pdb
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\csc.exe
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\csc.exe.config
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\csc.rsp
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\csi.exe
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\csi.exe.config
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\csi.rsp
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.AppContext.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Console.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.IO.Compression.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.IO.Pipes.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.AccessControl.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.Claims.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.ValueTuple.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\vbc.exe
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\vbc.exe.config
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\vbc.rsp
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\VBCSCompiler.exe
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\UrlRewritingNet.UrlRewriter.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\obj\Debug\ShopsDefault.csproj.AssemblyReference.cache
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\obj\Debug\ShopsDefault.csproj.CoreCompileInputs.cache
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\obj\Debug\ShopsDefault.csproj.CopyComplete
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\obj\Debug\ShopsDefault.dll
+D:\Đồ Án Tốt Nghiệp\Đồ Án Cho Thuê Xe Máy_02\DoAnTotNghie_ThueXeMay_22-01-2022\ShopsDefault\obj\Debug\ShopsDefault.pdb

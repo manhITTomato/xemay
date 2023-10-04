@@ -1,0 +1,8 @@
+﻿.detail-news .item .title {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.detail-news .item .author i {
+    color: #ff7b5b;
+}

@@ -1,0 +1,41 @@
+﻿/*================================================
+Pricing CSS
+==================================================*/
+
+.prd-pricing .tb-pricing {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+    .prd-pricing .tb-pricing tr:first-child th {
+        background-color: #0b3639;
+        color: #fff;
+    }
+
+    .prd-pricing .tb-pricing th, .prd-pricing .tb-pricing td {
+        padding: 6px 12px;
+    }
+
+    .prd-pricing .tb-pricing tr{
+        background-color: #e9e9e9;
+    }
+
+    .prd-pricing .tb-pricing tr:nth-of-type(odd) {
+        background-color: #f6f6f6;
+    }
+
+    .prd-pricing .tb-pricing .tb-colspan > td {
+        font-weight: bold;
+        text-align: center;
+        text-transform: uppercase;
+        color: #fff;
+    }
+
+    .prd-pricing .tb-pricing .tb-colspan:nth-child(2n) > td {
+        background-color: #ff7b5b;
+    }
+
+    .prd-pricing .tb-pricing .tb-colspan:nth-child(2n +1) > td {
+        background-color: #20b266;
+    }

@@ -1,0 +1,63 @@
+﻿.about-rental-process {
+    position: relative;
+    background-image: url('../images/UploadImages/ve-chung-toi/bg-rental-process.jpg');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    color: #fff;
+}
+
+    .about-rental-process:before {
+        content: "";
+        background-color: rgba(0, 0, 0, 0.6);
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+    }
+
+    .about-rental-process .block-header {
+        color: #fff;
+    }
+
+    .about-rental-process .item {
+        position: relative;
+        text-align: center;
+        cursor: pointer;
+    }
+
+        .about-rental-process .item .content {
+            color: #fff;
+        }
+
+            .about-rental-process .item .content:before {
+                content: "";
+                display: block;
+                width: 0;
+                margin: 0 auto;
+                height: 2px;
+                top: -12px;
+                position: relative;
+                transition: all .3s ease-in-out;
+            }
+
+        .about-rental-process .item:hover .content:before {
+            width: 100px;
+            background-color: #ff7b5b;
+        }
+
+        .about-rental-process .item .title {
+            color: #fff;
+        }
+
+        .about-rental-process .item .image {
+            position: relative;
+            top: 0;
+            margin-bottom: 20px;
+            transition: all .3s ease-in-out;
+        }
+
+        .about-rental-process .item:hover .image {
+            top: -5px;
+        }
